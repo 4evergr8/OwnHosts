@@ -28,16 +28,6 @@
 127.0.0.1 adv.sec.miui.com
 127.0.0.1 api.ra2.xlmc.sec.miui.com
 127.0.0.1 adv.sec.miui.com
-#天天静听的头条广告
-127.0.0.1 sf3-fe-tos.pglstatp-toutiao.com
-127.0.0.1 sf3-be-pack.pglstatp-toutiao.com
-127.0.0.1 p6-be-pack-sign.pglstatp-toutiao.com
-127.0.0.1 p6-be-pack-sign.pglstatp-toutiao.com
-127.0.0.1 p9-be-pack-sign.pglstatp-toutiao.com
-127.0.0.1 api-access.pangolin-sdk-toutiao.com
-127.0.0.1 api-access.pangolin-sdk-toutiao.com
-127.0.0.1 p9-be-pack-sign.pglstatp-toutiao.com
-127.0.0.1 sf3-be-pack.pglstatp-toutiao.com
 #闲鱼开屏广告
 127.0.0.1 ossgw.alicdn.com
 127.0.0.1 vali.cp31.ott.cibntv.net
