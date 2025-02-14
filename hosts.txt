@@ -38,3 +38,4 @@
 
 #阻止更新检测
 0.0.0.0 update.pan.baidu.com
+0.0.0.0 update.baidu.com
