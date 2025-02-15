@@ -1,7 +1,7 @@
 #美团外卖开屏广告，副作用是图片无法加载
-127.0.0.1 p0.meituan.com
-127.0.0.1 p1.meituan.com
-127.0.0.1 img.meituan.net
+#127.0.0.1p0.meituan.com
+#127.0.0.1p1.meituan.com
+#127.0.0.1img.meituan.net
 #Nhentai广告
 127.0.0.1 a.adtng.com
 127.0.0.1 tsyndicate.com
