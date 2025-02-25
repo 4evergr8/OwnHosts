@@ -4,7 +4,8 @@
 #127.0.0.1img.meituan.net
 #Nhentai广告
 127.0.0.1 a.adtng.com
-127.0.0.1 tsyndicate.com
+127.0.0.1 cdn.tsyndicate.com
+#127.0.0.1 tsyndicate.com
 127.0.0.1 creative.mnaspm.com
 127.0.0.1 go.hpyjmp.com
 127.0.0.1 cdn.tsyndicate.com
