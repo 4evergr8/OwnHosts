@@ -3,20 +3,9 @@
 #127.0.0.1p1.meituan.com
 #127.0.0.1img.meituan.net
 #Nhentai广告
-127.0.0.1 a.adtng.com
-127.0.0.1 cdn.tsyndicate.com
+0.0.0.0 cdn.tsyndicate.com
 #Kemono广告
-127.0.0.1 a.magsrv.com
-127.0.0.1 a.pemsrv.com
-127.0.0.1 creative.xlivrdr.com
-127.0.0.1 go.mnaspm.com
-127.0.0.1 uejntsxdffp.com
-127.0.0.1 rxeosevsso.com
-127.0.0.1 ancamcdu.com
-127.0.0.1 go.mnaspm.com
-127.0.0.1 shakingtacklingunpeeled.com
-127.0.0.1 isolatedovercomepasted.com
-127.0.0.1 divisiondrearilyunfiled.com
+
 #sukebei广告
 0.0.0.0 s.magsrv.com
 0.0.0.0 a.magsrv.com
