@@ -18,8 +18,8 @@
 127.0.0.1 isolatedovercomepasted.com
 127.0.0.1 divisiondrearilyunfiled.com
 #sukebei广告
-127.0.0.1 s.magsrv.com
-127.0.0.1 a.magsrv.com
+0.0.0.0 s.magsrv.com
+0.0.0.0 a.magsrv.com
 #MIUI
 127.0.0.1 fcanr.tracking.miui.com
 127.0.0.1 tracking.miui.com
