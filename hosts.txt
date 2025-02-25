@@ -4,6 +4,7 @@
 #127.0.0.1img.meituan.net
 #Nhentai广告
 0.0.0.0 cdn.tsyndicate.com
+0.0.0.0 tsyndicate.com
 #Kemono广告
 0.0.0.0 go.mnaspm.com
 #sukebei广告
