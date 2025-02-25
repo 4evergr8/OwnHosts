@@ -5,10 +5,6 @@
 #Nhentai广告
 127.0.0.1 a.adtng.com
 127.0.0.1 cdn.tsyndicate.com
-#127.0.0.1 tsyndicate.com
-127.0.0.1 creative.mnaspm.com
-127.0.0.1 go.hpyjmp.com
-127.0.0.1 cdn.tsyndicate.com
 #Kemono广告
 127.0.0.1 a.magsrv.com
 127.0.0.1 a.pemsrv.com
@@ -23,6 +19,7 @@
 127.0.0.1 divisiondrearilyunfiled.com
 #sukebei广告
 127.0.0.1 s.magsrv.com
+127.0.0.1 a.magsrv.com
 #MIUI
 127.0.0.1 fcanr.tracking.miui.com
 127.0.0.1 tracking.miui.com
