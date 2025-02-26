@@ -29,3 +29,4 @@
 0.0.0.0 update.baidu.com #百度系通用
 0.0.0.0 update.pan.baidu.com #百度网盘
 0.0.0.0 client.pgyapi.com #蒲公英组网
+0.0.0.0 iota.nothing.tech #Nothing耳机OTA
