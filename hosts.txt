@@ -8,6 +8,7 @@
 0.0.0.0 divisiondrearilyunfiled.com
 #Kemono广告
 0.0.0.0 go.mnaspm.com
+0.0.0.0 cdn.bncloudfl.com
 #sukebei广告
 0.0.0.0 s.magsrv.com
 0.0.0.0 a.magsrv.com
