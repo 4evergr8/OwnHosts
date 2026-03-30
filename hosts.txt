@@ -1,29 +1,8 @@
-#Nhentai广告
-0.0.0.0 cdn.tsyndicate.com
-0.0.0.0 tsyndicate.com
-0.0.0.0 divisiondrearilyunfiled.com
-#Kemono广告
-0.0.0.0 go.mnaspm.com
-0.0.0.0 cdn.bncloudfl.com
-#sukebei广告
-0.0.0.0 s.magsrv.com
-0.0.0.0 a.magsrv.com
-#MIUI
-0.0.0.0 fcanr.tracking.miui.com
-0.0.0.0 tracking.miui.com
-0.0.0.0 adv.sec.miui.com
-0.0.0.0 api.ra2.xlmc.sec.miui.com
-0.0.0.0 adv.sec.miui.com
 #闲鱼开屏广告
 0.0.0.0 ossgw.alicdn.com
 0.0.0.0 vali.cp31.ott.cibntv.net
 0.0.0.0 h-adashx.ut.taobao.com
 0.0.0.0 a1.alibabausercontent.com
-#谷歌广告
-0.0.0.0 googleads.g.doubleclick.net
-0.0.0.0 pagead2.googlesyndication.com
-
-
 #阻止更新检测
 0.0.0.0 update.baidu.com #百度系通用
 0.0.0.0 update.pan.baidu.com #百度网盘
